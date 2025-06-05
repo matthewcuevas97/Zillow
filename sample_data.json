@@ -1,0 +1,621 @@
+{
+  "status": {
+    "version": "1.0.0",
+    "code": 0,
+    "msg": "SuccessWithResult",
+    "total": 10000,
+    "page": 1,
+    "pagesize": 10,
+    "responseDateTime": "2025-06-05T02:21:33.585Z",
+    "transactionID": "1798b938e8a92df0a5b0e0142e62e090"
+  },
+  "property": [
+    {
+      "identifier": {
+        "Id": 110388,
+        "fips": "06019",
+        "apn": "555-102-40",
+        "attomId": 110388
+      },
+      "lot": {
+        "lotSize1": 0.1414141
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "2658 SANTA ANA AVE",
+        "line2": "CLOVIS, CA 93611",
+        "locality": "CLOVIS",
+        "matchCode": "ExaStr",
+        "oneLine": "2658 SANTA ANA AVE, CLOVIS, CA 93611",
+        "postal1": "93611",
+        "postal2": "5062",
+        "postal3": "R024"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "36.804922",
+        "longitude": "-119.662390",
+        "distance": 0.0,
+        "geoid": "CO06019, CS0691080, DB0609030, PL0614218, RS0005017478, SB0000069165, SB0000069178, SB0000069186, ZI93611",
+        "geoIdV4": {
+          "CO": "a0636461ed43cbf476f06d42738a9353",
+          "CS": "68528639ba1b7476f707274391ad08b5",
+          "DB": "f4fdba76e653c329f12baa074a7f556d",
+          "N4": "486ca01fa7141ed253bdcf76fc6b2b6e",
+          "PL": "903ea2c7644034264874e450e5be3bbc",
+          "SB": "b9a556fc0fe9f49d88941a02fc0764d5, 7038c989c7451d80935cecd06b05ddc8, 41acdf7f96c2332b17ff08ffe33c92ba",
+          "ZI": "0d1c1d4d254c42a384805ec3fbdb1658"
+        }
+      },
+      "summary": {
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearbuilt": 2004,
+        "propLandUse": "SFR",
+        "propIndicator": "10"
+      },
+      "building": {
+        "size": {
+          "universalsize": 1323
+        },
+        "rooms": {
+          "bathstotal": 2.0,
+          "beds": 3
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-11-13",
+        "pubDate": "2024-11-13"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 111851,
+        "fips": "06019",
+        "apn": "563-191-02",
+        "attomId": 111851
+      },
+      "lot": {
+        "lotSize1": 0.2353306
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "1811 CROMWELL AVE",
+        "line2": "CLOVIS, CA 93611",
+        "locality": "CLOVIS",
+        "matchCode": "ExaStr",
+        "oneLine": "1811 CROMWELL AVE, CLOVIS, CA 93611",
+        "postal1": "93611",
+        "postal2": "6650",
+        "postal3": "R029"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "36.847235",
+        "longitude": "-119.683525",
+        "distance": 0.0,
+        "geoid": "CO06019, CS0691080, DB0609030, PL0614218, RS0005012323, SB0000069146, SB0000069151, SB0000069175, ZI93611",
+        "geoIdV4": {
+          "CO": "a0636461ed43cbf476f06d42738a9353",
+          "CS": "68528639ba1b7476f707274391ad08b5",
+          "DB": "f4fdba76e653c329f12baa074a7f556d",
+          "N4": "1e0271fc0229aa3465ea232345832c9e",
+          "PL": "903ea2c7644034264874e450e5be3bbc",
+          "SB": "ba5ba8ed1ca5a1a5f84e44befa717566, 709c1e6a98cc420b97bc374dd3b117a8, c46aca65c27fde5247876a56173b3bf9",
+          "ZI": "0d1c1d4d254c42a384805ec3fbdb1658"
+        }
+      },
+      "summary": {
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearbuilt": 2002,
+        "propLandUse": "SFR",
+        "propIndicator": "10"
+      },
+      "building": {
+        "size": {
+          "universalsize": 2284
+        },
+        "rooms": {
+          "bathstotal": 3.0,
+          "beds": 5
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-11-13",
+        "pubDate": "2024-11-13"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 111856,
+        "fips": "06019",
+        "apn": "551-172-21",
+        "attomId": 111856
+      },
+      "lot": {
+        "lotSize1": 0.1792929
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "2577 PURVIS AVE",
+        "line2": "CLOVIS, CA 93611",
+        "locality": "CLOVIS",
+        "matchCode": "ExaStr",
+        "oneLine": "2577 PURVIS AVE, CLOVIS, CA 93611",
+        "postal1": "93611",
+        "postal2": "5932",
+        "postal3": "R003"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "36.815068",
+        "longitude": "-119.665236",
+        "distance": 0.0,
+        "geoid": "CO06019, CS0691080, PL0614218, RS0000058442, SB0000069147, SB0000069148, SB0000069164, ZI93611",
+        "geoIdV4": {
+          "CO": "a0636461ed43cbf476f06d42738a9353",
+          "CS": "68528639ba1b7476f707274391ad08b5",
+          "DB": "f4fdba76e653c329f12baa074a7f556d",
+          "N4": "c0118588853a298b0363a3e6cbcc1d9e",
+          "PL": "903ea2c7644034264874e450e5be3bbc",
+          "SB": "2210866027da607210fc215a33dffd40, 8d54c7838de6c6c87962b3240e0dfd9a, 78e2de1d5ef0c901e02a9d590e62b9a0",
+          "ZI": "0d1c1d4d254c42a384805ec3fbdb1658"
+        }
+      },
+      "summary": {
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearbuilt": 1990,
+        "propLandUse": "SFR",
+        "propIndicator": "10"
+      },
+      "building": {
+        "size": {
+          "universalsize": 1846
+        },
+        "rooms": {
+          "bathstotal": 2.0,
+          "beds": 4
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-11-13",
+        "pubDate": "2024-11-13"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 113088,
+        "fips": "06019",
+        "apn": "562-135-14",
+        "attomId": 113088
+      },
+      "lot": {
+        "lotSize1": 0.1793388
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "1123 SPRUCE AVE",
+        "line2": "CLOVIS, CA 93611",
+        "locality": "CLOVIS",
+        "matchCode": "ExaStr",
+        "oneLine": "1123 SPRUCE AVE, CLOVIS, CA 93611",
+        "postal1": "93611",
+        "postal2": "0312",
+        "postal3": "R023"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "36.841355",
+        "longitude": "-119.696637",
+        "distance": 0.0,
+        "geoid": "CO06019, CS0691080, DB0609030, PL0614218, RS0004791045, ZI93611",
+        "geoIdV4": {
+          "CO": "a0636461ed43cbf476f06d42738a9353",
+          "CS": "68528639ba1b7476f707274391ad08b5",
+          "DB": "f4fdba76e653c329f12baa074a7f556d",
+          "N4": "3cdb0fdd30cf2fda55762cab7e42704d",
+          "PL": "903ea2c7644034264874e450e5be3bbc",
+          "SB": "709c1e6a98cc420b97bc374dd3b117a8, 5515468e995af387abf7d56cc129fe7d, c46aca65c27fde5247876a56173b3bf9",
+          "ZI": "0d1c1d4d254c42a384805ec3fbdb1658"
+        }
+      },
+      "summary": {
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearbuilt": 1996,
+        "propLandUse": "SFR",
+        "propIndicator": "10"
+      },
+      "building": {
+        "size": {
+          "universalsize": 2448
+        },
+        "rooms": {
+          "bathstotal": 3.0,
+          "beds": 3
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-11-13",
+        "pubDate": "2024-11-13"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 117014,
+        "fips": "06019",
+        "apn": "498-163-06",
+        "attomId": 117014
+      },
+      "lot": {
+        "lotSize1": 0.148393
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "1468 BROWNING AVE",
+        "line2": "CLOVIS, CA 93611",
+        "locality": "CLOVIS",
+        "matchCode": "ExaStr",
+        "oneLine": "1468 BROWNING AVE, CLOVIS, CA 93611",
+        "postal1": "93611",
+        "postal2": "2009",
+        "postal3": "C022"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "36.819593",
+        "longitude": "-119.689513",
+        "distance": 0.0,
+        "geoid": "CO06019, CS0691080, PL0614218, RS0005021921, SB0000069147, SB0000069148, SB0000069164, ZI93611",
+        "geoIdV4": {
+          "CO": "a0636461ed43cbf476f06d42738a9353",
+          "CS": "68528639ba1b7476f707274391ad08b5",
+          "DB": "f4fdba76e653c329f12baa074a7f556d",
+          "N4": "d640a2e2d1197c33a508ffbc46e660b9",
+          "PL": "903ea2c7644034264874e450e5be3bbc",
+          "SB": "8d54c7838de6c6c87962b3240e0dfd9a, 2210866027da607210fc215a33dffd40, 78e2de1d5ef0c901e02a9d590e62b9a0",
+          "ZI": "0d1c1d4d254c42a384805ec3fbdb1658"
+        }
+      },
+      "summary": {
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearbuilt": 1974,
+        "propLandUse": "SFR",
+        "propIndicator": "10"
+      },
+      "building": {
+        "size": {
+          "universalsize": 1378
+        },
+        "rooms": {
+          "bathstotal": 1.0,
+          "beds": 3
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-11-13",
+        "pubDate": "2024-11-13"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 127067,
+        "fips": "06019",
+        "apn": "498-254-28",
+        "attomId": 127067
+      },
+      "lot": {
+        "lotSize1": 0.2203857
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "1745 BARSTOW AVE",
+        "line2": "CLOVIS, CA 93611",
+        "locality": "CLOVIS",
+        "matchCode": "ExaStr",
+        "oneLine": "1745 BARSTOW AVE, CLOVIS, CA 93611",
+        "postal1": "93611",
+        "postal2": "2067",
+        "postal3": "C015"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "36.816062",
+        "longitude": "-119.683698",
+        "distance": 0.0,
+        "geoid": "CO06019, CS0691080, DB0609030, PL0614218, ZI93611",
+        "geoIdV4": {
+          "CO": "a0636461ed43cbf476f06d42738a9353",
+          "CS": "68528639ba1b7476f707274391ad08b5",
+          "DB": "f4fdba76e653c329f12baa074a7f556d",
+          "PL": "903ea2c7644034264874e450e5be3bbc",
+          "SB": "8d54c7838de6c6c87962b3240e0dfd9a, 2210866027da607210fc215a33dffd40, 78e2de1d5ef0c901e02a9d590e62b9a0",
+          "ZI": "0d1c1d4d254c42a384805ec3fbdb1658"
+        }
+      },
+      "summary": {
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearbuilt": 1975,
+        "propLandUse": "SFR",
+        "propIndicator": "10"
+      },
+      "building": {
+        "size": {
+          "universalsize": 1649
+        },
+        "rooms": {
+          "bathstotal": 1.0,
+          "beds": 3
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-11-13",
+        "pubDate": "2024-11-13"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 127077,
+        "fips": "06019",
+        "apn": "499-540-21",
+        "attomId": 127077
+      },
+      "lot": {
+        "lotSize1": 0.209596
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "2710 SUNNYSIDE AVE",
+        "line2": "CLOVIS, CA 93611",
+        "locality": "CLOVIS",
+        "matchCode": "ExaStr",
+        "oneLine": "2710 SUNNYSIDE AVE, CLOVIS, CA 93611",
+        "postal1": "93611",
+        "postal2": "4546",
+        "postal3": "C021"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "36.801836",
+        "longitude": "-119.690926",
+        "distance": 0.0,
+        "geoid": "CO06019, CS0691080, DB0609030, PL0614218, ZI93611",
+        "geoIdV4": {
+          "CO": "a0636461ed43cbf476f06d42738a9353",
+          "CS": "68528639ba1b7476f707274391ad08b5",
+          "DB": "f4fdba76e653c329f12baa074a7f556d",
+          "PL": "903ea2c7644034264874e450e5be3bbc",
+          "SB": "a592c6fcd5293d0eefc2e372dd3d5bf8, 8d54c7838de6c6c87962b3240e0dfd9a, 2210866027da607210fc215a33dffd40",
+          "ZI": "0d1c1d4d254c42a384805ec3fbdb1658"
+        }
+      },
+      "summary": {
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearbuilt": 1978,
+        "propLandUse": "SFR",
+        "propIndicator": "10"
+      },
+      "building": {
+        "size": {
+          "universalsize": 1838
+        },
+        "rooms": {
+          "bathstotal": 1.0,
+          "beds": 3
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-11-13",
+        "pubDate": "2024-11-13"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 129826,
+        "fips": "06019",
+        "apn": "499-383-07",
+        "attomId": 129826
+      },
+      "lot": {
+        "lotSize1": 0.1606061
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "2622 RENN AVE",
+        "line2": "CLOVIS, CA 93611",
+        "locality": "CLOVIS",
+        "matchCode": "ExaStr",
+        "oneLine": "2622 RENN AVE, CLOVIS, CA 93611",
+        "postal1": "93611",
+        "postal2": "4564",
+        "postal3": "C025"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "36.802387",
+        "longitude": "-119.683990",
+        "distance": 0.0,
+        "geoid": "CO06019, CS0691080, DB0609030, PL0614218, ZI93611",
+        "geoIdV4": {
+          "CO": "a0636461ed43cbf476f06d42738a9353",
+          "CS": "68528639ba1b7476f707274391ad08b5",
+          "DB": "f4fdba76e653c329f12baa074a7f556d",
+          "PL": "903ea2c7644034264874e450e5be3bbc",
+          "SB": "2210866027da607210fc215a33dffd40, 8d54c7838de6c6c87962b3240e0dfd9a, a592c6fcd5293d0eefc2e372dd3d5bf8",
+          "ZI": "0d1c1d4d254c42a384805ec3fbdb1658"
+        }
+      },
+      "summary": {
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearbuilt": 1977,
+        "propLandUse": "SFR",
+        "propIndicator": "10"
+      },
+      "building": {
+        "size": {
+          "universalsize": 1271
+        },
+        "rooms": {
+          "bathstotal": 1.0,
+          "beds": 3
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-11-13",
+        "pubDate": "2024-11-13"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 156316,
+        "fips": "06019",
+        "apn": "561-242-06",
+        "attomId": 156316
+      },
+      "lot": {
+        "lotSize1": 0.1848026
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "54 W DECATUR AVE",
+        "line2": "CLOVIS, CA 93611",
+        "locality": "CLOVIS",
+        "matchCode": "ExaStr",
+        "oneLine": "54 W DECATUR AVE, CLOVIS, CA 93611",
+        "postal1": "93611",
+        "postal2": "3519",
+        "postal3": "R012"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "36.846669",
+        "longitude": "-119.712554",
+        "distance": 0.0,
+        "geoid": "CO06019, CS0691080, DB0609030, PL0614218, RS0004837385, SB0000069146, SB0000069175, SB0000069187, ZI93611",
+        "geoIdV4": {
+          "CO": "a0636461ed43cbf476f06d42738a9353",
+          "CS": "68528639ba1b7476f707274391ad08b5",
+          "DB": "f4fdba76e653c329f12baa074a7f556d",
+          "N4": "55c7f85b0dd96c765c4941c3bbc68607",
+          "PL": "903ea2c7644034264874e450e5be3bbc",
+          "SB": "c46aca65c27fde5247876a56173b3bf9, 709c1e6a98cc420b97bc374dd3b117a8, d76eabbf747441c4f9795619f2c34b95",
+          "ZI": "0d1c1d4d254c42a384805ec3fbdb1658"
+        }
+      },
+      "summary": {
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearbuilt": 2002,
+        "propLandUse": "SFR",
+        "propIndicator": "10"
+      },
+      "building": {
+        "size": {
+          "universalsize": 2145
+        },
+        "rooms": {
+          "bathstotal": 2.0,
+          "beds": 3
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-11-13",
+        "pubDate": "2024-11-13"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 163717,
+        "fips": "06019",
+        "apn": "554-092-12",
+        "attomId": 163717
+      },
+      "lot": {
+        "lotSize1": 0.1859504
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "2764 DENNIS AVE",
+        "line2": "CLOVIS, CA 93611",
+        "locality": "CLOVIS",
+        "matchCode": "ExaStr",
+        "oneLine": "2764 DENNIS AVE, CLOVIS, CA 93611",
+        "postal1": "93611",
+        "postal2": "6934",
+        "postal3": "R022"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "36.813489",
+        "longitude": "-119.660167",
+        "distance": 0.0,
+        "geoid": "CO06019, CS0691080, DB0609030, PL0614218, RS0005011479, SB0000069147, SB0000069148, SB0000069174, ZI93611",
+        "geoIdV4": {
+          "CO": "a0636461ed43cbf476f06d42738a9353",
+          "CS": "68528639ba1b7476f707274391ad08b5",
+          "DB": "f4fdba76e653c329f12baa074a7f556d",
+          "N4": "aa91db74d9db6c30e6a65c7b877659fe",
+          "PL": "903ea2c7644034264874e450e5be3bbc",
+          "SB": "04c216cc13cdca49f8c68aa9d81cd2fd, 2210866027da607210fc215a33dffd40, 8d54c7838de6c6c87962b3240e0dfd9a",
+          "ZI": "0d1c1d4d254c42a384805ec3fbdb1658"
+        }
+      },
+      "summary": {
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "propertyType": "SINGLE FAMILY RESIDENCE",
+        "yearbuilt": 1994,
+        "propLandUse": "SFR",
+        "propIndicator": "10"
+      },
+      "building": {
+        "size": {
+          "universalsize": 1494
+        },
+        "rooms": {
+          "bathstotal": 2.0,
+          "beds": 4
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-11-13",
+        "pubDate": "2024-11-13"
+      }
+    }
+  ]
+}

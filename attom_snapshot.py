@@ -26,6 +26,10 @@ raw_data = res.read().decode("utf-8")
 
 try:
     data = json.loads(raw_data)
+    # Save the parsed JSON data to a file
+    with open("sample_data.json", "w") as f:
+        json.dump(data, f, indent=2)
+    # Also print it for confirmation
     print(json.dumps(data, indent=2))
 except json.JSONDecodeError:
     print(raw_data)
